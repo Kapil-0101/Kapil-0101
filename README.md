@@ -1,6 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Hi 👋, I am Kapil Jangid
+**A passionate Backend Developer || Software Engineer**
 
+Email Me 👉 ✉️ **gauravblsharma2007@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** Full Stack Web Devlopment
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** gauravblsharma2007@gmail.com
+- 😄 **Pronouns:** Gaurav Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/henry_kapil_2022) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kapil-jangid-355148328) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:henryboy2173@gmail.com) 
