@@ -1,12 +1,12 @@
 # 💫 Hi 👋, I am Kapil Jangid
 **A passionate Backend Developer || Software Engineer**
 
-Email Me 👉 ✉️ **gauravblsharma2007@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **henryboy2173@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** Full Stack Web Devlopment
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** gauravblsharma2007@gmail.com
-- 😄 **Pronouns:** Gaurav Sir
+- 📫 **How to reach me:**  henryboy2173@gmail.com
+- 😄 **Pronouns:** Kapil Jangid
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
